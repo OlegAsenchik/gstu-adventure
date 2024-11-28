@@ -10,16 +10,14 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest  # Используем Windows Runner для поддержки .NET Framework
+    runs-on: windows-latest  # Используем Windows для .NET Framework
 
     steps:
       - name: Check out code
         uses: actions/checkout@v2
 
-      - name: Set up .NET Framework 4.8 SDK
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: 4.8  # Устанавливаем .NET Framework SDK
+      # В данном случае, для .NET Framework 4.8 не требуется настройка .NET SDK
+      # Так как Windows Runner уже поддерживает его
 
       - name: Restore dependencies
         run: dotnet restore
