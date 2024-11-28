@@ -4,7 +4,6 @@
   <img src="https://github.com/OlegAsenchik/gstu-adventure/blob/main/memes/photo_2024-11-28_17-26-41.jpg" width="48%" height="650px" />
 </div>
 
-
 Behold, ye travelers of the Digital Realm! Welcome to the sacred and arcane repository of GSTU, where the fates of databases intertwine with the mystical powers of C#.
 
 It is here that I, a humble wizard of code, have woven spells of data management, casting intricate queries and summoning stored procedures from the depths of SQL.
