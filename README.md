@@ -10,4 +10,5 @@ In this enchanted scroll (or rather, repository), ye shall find an assortment of
 Beware, for within these sacred files, you may encounter cryptic lines of code that defy logic and reason. Some may be written in the language of SQL, others in the most powerful incantations of C#. And yet, fear not—every function, every class, and every entity has been crafted with the utmost care and precision. With a flick of your IDE wand, you too can tame these chaotic systems.
 
 ## Final Blessing
-May your paths be guided by the light of GSTU, and may your queries never return null.
+> "May your paths be guided by the light of GSTU, and may your queries never return null."
+> - Oleg Asenchik
