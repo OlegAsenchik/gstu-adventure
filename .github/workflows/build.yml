@@ -1,4 +1,4 @@
-name: Build Project on Multiple Platforms
+name: Build and Test .NET Framework 4.8 Project
 
 on:
   push:
@@ -10,34 +10,28 @@ on:
 
 jobs:
   build:
-    name: Build on ${{ matrix.os }}
-    runs-on: ${{ matrix.os }}
-
-    strategy:
-      matrix:
-        os: [ubuntu-latest, windows-latest] # Ïëàòôîðìû äëÿ ñáîðêè
-        dotnet-version: [4.8]
+    runs-on: windows-latest  # Используем Windows Runner для поддержки .NET Framework
 
     steps:
-      # Øàã 1: Ïðîâåðêà èñõîäíîãî êîäà
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Check out code
+        uses: actions/checkout@v2
 
-      # Øàã 2: Óñòàíîâêà .NET SDK
-      - name: Setup .NET
+      - name: Install .NET Framework 4.8 Developer Pack
+        run: |
+          # Скачиваем и устанавливаем .NET Framework 4.8 Developer Pack
+          Invoke-WebRequest -Uri https://aka.ms/msbuild/developerpacks/4.8/ -OutFile dotnet-framework-4.8-installer.exe
+          Start-Process -Wait -FilePath dotnet-framework-4.8-installer.exe
+
+      - name: Install .NET SDK
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: ${{ matrix.dotnet-version }}
+          dotnet-version: 4.8  # Устанавливаем .NET SDK 4.8
 
-      # Øàã 3: Âîññòàíîâëåíèå çàâèñèìîñòåé
       - name: Restore dependencies
         run: dotnet restore
 
-      # Øàã 4: Êîìïèëÿöèÿ ïðîåêòà
-      - name: Build project
-        run: dotnet build --configuration Release --no-restore
+      - name: Build the project
+        run: dotnet build --configuration Release
 
-      # Øàã 5: Ïðîâåðêà óñïåøíîé ñáîðêè
-      - name: Verify Build Output
-        run: |
-          echo "Build succeeded on ${{ matrix.os }} with .NET ${{ matrix.dotnet-version }}"
+      - name: Run tests
+        run: dotnet test --configuration Release
