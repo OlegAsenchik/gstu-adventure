@@ -16,16 +16,10 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v2
 
-      - name: Install .NET Framework 4.8 Developer Pack
-        run: |
-          # Скачиваем и устанавливаем .NET Framework 4.8 Developer Pack
-          Invoke-WebRequest -Uri https://aka.ms/msbuild/developerpacks/4.8/ -OutFile dotnet-framework-4.8-installer.exe
-          Start-Process -Wait -FilePath dotnet-framework-4.8-installer.exe
-
-      - name: Install .NET SDK
+      - name: Set up .NET Framework 4.8 SDK
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: 4.8  # Устанавливаем .NET SDK 4.8
+          dotnet-version: 4.8  # Устанавливаем .NET Framework SDK
 
       - name: Restore dependencies
         run: dotnet restore
