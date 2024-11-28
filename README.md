@@ -21,10 +21,6 @@ Beware, for within these sacred files, you may encounter cryptic lines of code t
 > - Oleg Asenchik
 
 ![Asen Status](https://avatars.mds.yandex.net/i?id=edc1f752fb373626a5c00cb863c814a3_sr-6850570-images-thumbs&n=13)
-# Project Title
-
+# Status Badge
+<img src="https://avatars.mds.yandex.net/i?id=edc1f752fb373626a5c00cb863c814a3_sr-6850570-images-thumbs&n=13" width=50% height=50%>
 ![example workflow](https://github.com/OlegAsenchik/gstu-adventure/actions/workflows/build.yml/badge.svg)
-
-Your project description goes here.
-
-
