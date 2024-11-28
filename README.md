@@ -21,7 +21,7 @@ In this enchanted scroll (or rather, repository), ye shall find an assortment of
 Beware, for within these sacred files, you may encounter cryptic lines of code that defy logic and reason. Some may be written in the language of SQL, others in the most powerful incantations of C#. And yet, fear not—every function, every class, and every entity has been crafted with the utmost care and precision. With a flick of your IDE wand, you too can tame these chaotic systems.
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/OlegAsenchik/gstu-adventure/blob/main/memes/photo_2024-11-28_19-39-39.jpg?raw=true" width=48% />
-  <img src="https://github.com/OlegAsenchik/gstu-adventure/blob/main/memes/photo_2024-11-28_17-26-41.jpg" width="48%" />
+  <img src="https://github.com/OlegAsenchik/gstu-adventure/blob/main/memes/photo_2024-11-28_19-45-44.jpg?raw=true" width="48%" />
 </div>
 ## Final Blessing
 > "May your paths be guided by the light of GSTU, and may your queries never return null."
