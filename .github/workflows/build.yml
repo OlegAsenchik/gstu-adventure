@@ -15,29 +15,29 @@ jobs:
 
     strategy:
       matrix:
-        os: [ubuntu-latest, windows-latest] # Платформы для сборки
-        dotnet-version: [6.0, 7.0]         # Версии .NET SDK (если применимо)
+        os: [ubuntu-latest, windows-latest] # ГЏГ«Г ГІГґГ®Г°Г¬Г» Г¤Г«Гї Г±ГЎГ®Г°ГЄГЁ
+        dotnet-version: '4.8'  # РЈР±РµРґРёС‚РµСЃСЊ, С‡С‚Рѕ .NET Framework 4.8 РґРѕСЃС‚СѓРїРµРЅ  Г‚ГҐГ°Г±ГЁГЁ .NET SDK (ГҐГ±Г«ГЁ ГЇГ°ГЁГ¬ГҐГ­ГЁГ¬Г®)
 
     steps:
-      # Шаг 1: Проверка исходного кода
+      # ГГ ГЈ 1: ГЏГ°Г®ГўГҐГ°ГЄГ  ГЁГ±ГµГ®Г¤Г­Г®ГЈГ® ГЄГ®Г¤Г 
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Шаг 2: Установка .NET SDK
+      # ГГ ГЈ 2: Г“Г±ГІГ Г­Г®ГўГЄГ  .NET SDK
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: ${{ matrix.dotnet-version }}
 
-      # Шаг 3: Восстановление зависимостей
+      # ГГ ГЈ 3: Г‚Г®Г±Г±ГІГ Г­Г®ГўГ«ГҐГ­ГЁГҐ Г§Г ГўГЁГ±ГЁГ¬Г®Г±ГІГҐГ©
       - name: Restore dependencies
         run: dotnet restore
 
-      # Шаг 4: Компиляция проекта
+      # ГГ ГЈ 4: ГЉГ®Г¬ГЇГЁГ«ГїГ¶ГЁГї ГЇГ°Г®ГҐГЄГІГ 
       - name: Build project
         run: dotnet build --configuration Release --no-restore
 
-      # Шаг 5: Проверка успешной сборки
+      # ГГ ГЈ 5: ГЏГ°Г®ГўГҐГ°ГЄГ  ГіГ±ГЇГҐГёГ­Г®Г© Г±ГЎГ®Г°ГЄГЁ
       - name: Verify Build Output
         run: |
           echo "Build succeeded on ${{ matrix.os }} with .NET ${{ matrix.dotnet-version }}"
