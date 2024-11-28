@@ -1,7 +1,7 @@
 # The Enchanted Repository of GSTU: Chronicles of Databases and C# Magic
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/OlegAsenchik/gstu-adventure/blob/main/memes/photo_2024-11-28_19-39-43.jpg?raw=true" width="48%" />
-  <img src="https://github.com/OlegAsenchik/gstu-adventure/blob/main/memes/photo_2024-11-28_17-26-41.jpg" width="48%" height="800px" />
+  <img src="https://github.com/OlegAsenchik/gstu-adventure/blob/main/memes/photo_2024-11-28_17-26-41.jpg" width="48%" height="650px" />
 </div>
 
 
