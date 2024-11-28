@@ -1,5 +1,5 @@
 # The Enchanted Repository of GSTU: Chronicles of Databases and C# Magic
-![Background Image](https://github.com/OlegAsenchik/gstu-adventure/blob/main/memes/photo_2024-11-28_17-25-58.jpg?raw=true)
+<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/OlegAsenchik/gstu-adventure/blob/main/memes/photo_2024-11-28_17-25-58.jpg?raw=true)" width=100%>
 
 Behold, ye travelers of the Digital Realm! Welcome to the sacred and arcane repository of GSTU, where the fates of databases intertwine with the mystical powers of C#.
 
@@ -21,6 +21,8 @@ Beware, for within these sacred files, you may encounter cryptic lines of code t
 > - Oleg Asenchik
 
 ![Asen Status](https://avatars.mds.yandex.net/i?id=edc1f752fb373626a5c00cb863c814a3_sr-6850570-images-thumbs&n=13)
-# Status Badge
-<img src="https://avatars.mds.yandex.net/i?id=edc1f752fb373626a5c00cb863c814a3_sr-6850570-images-thumbs&n=13" width=50% height=50%>
+# Project Title
+
 ![example workflow](https://github.com/OlegAsenchik/gstu-adventure/actions/workflows/build.yml/badge.svg)
+
+Your project description goes here.
