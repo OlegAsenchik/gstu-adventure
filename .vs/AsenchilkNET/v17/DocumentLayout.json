@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\asenchilknet\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|solutionrelative:asenchilknet\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\.github\\workflows\\build.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\build.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|c:\\users\\lenovo\\source\\repos\\asenchilknet\\asenchilknet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\asenchilknet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|solutionrelative:asenchilknet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\asenchilknet\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|solutionrelative:asenchilknet\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\asenchilknet\\debtor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|solutionrelative:asenchilknet\\debtor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|c:\\users\\lenovo\\source\\repos\\asenchilknet\\asenchilknet\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|solutionrelative:asenchilknet\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\asenchilknet\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\asenchilknet\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|solutionrelative:asenchilknet\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\asenchilknet\\debtor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|solutionrelative:asenchilknet\\debtor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\asenchilknet\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|solutionrelative:asenchilknet\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7CDEA8A-D05C-4131-8D39-A22F95F3BF8A}|AsenchilkNET\\AsenchilkNET.csproj|C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\asenchilknet\\listenercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedHeight": 261,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "build.yml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\.github\\workflows\\build.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\build.yml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\.github\\workflows\\build.yml",
+              "RelativeToolTip": ".github\\workflows\\build.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-28T15:40:16.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\AsenchilkNET\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "AsenchilkNET\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\AsenchilkNET\\ApplicationContext.cs",
+              "RelativeToolTip": "AsenchilkNET\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:36:44.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,44 +82,27 @@
               "RelativeDocumentMoniker": "AsenchilkNET\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\AsenchilkNET\\Program.cs",
               "RelativeToolTip": "AsenchilkNET\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T11:11:17.243Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\AsenchilkNET\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "AsenchilkNET\\ApplicationContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\AsenchilkNET\\ApplicationContext.cs",
-              "RelativeToolTip": "AsenchilkNET\\ApplicationContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:36:44.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Debtor.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\AsenchilkNET\\Debtor.cs",
               "RelativeDocumentMoniker": "AsenchilkNET\\Debtor.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\AsenchilkNET\\Debtor.cs",
               "RelativeToolTip": "AsenchilkNET\\Debtor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T10:36:22.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\AsenchilkNET\\Payment.cs",
               "RelativeDocumentMoniker": "AsenchilkNET\\Payment.cs",
@@ -97,12 +110,11 @@
               "RelativeToolTip": "AsenchilkNET\\Payment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:36:05.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T10:36:05.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ListenerCourse.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\AsenchilkNET\\ListenerCourse.cs",
               "RelativeDocumentMoniker": "AsenchilkNET\\ListenerCourse.cs",
@@ -114,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\AsenchilkNET\\Course.cs",
               "RelativeDocumentMoniker": "AsenchilkNET\\Course.cs",
@@ -127,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Listener.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AsenchilkNET\\AsenchilkNET\\Listener.cs",
               "RelativeDocumentMoniker": "AsenchilkNET\\Listener.cs",
@@ -135,8 +147,7 @@
               "RelativeToolTip": "AsenchilkNET\\Listener.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:35:06.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T10:35:06.38Z"
             }
           ]
         }

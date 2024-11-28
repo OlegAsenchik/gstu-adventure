@@ -1,0 +1,43 @@
+name: Build Project on Multiple Platforms
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest] # Платформы для сборки
+        dotnet-version: [6.0, 7.0]         # Версии .NET SDK (если применимо)
+
+    steps:
+      # Шаг 1: Проверка исходного кода
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Шаг 2: Установка .NET SDK
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: ${{ matrix.dotnet-version }}
+
+      # Шаг 3: Восстановление зависимостей
+      - name: Restore dependencies
+        run: dotnet restore
+
+      # Шаг 4: Компиляция проекта
+      - name: Build project
+        run: dotnet build --configuration Release --no-restore
+
+      # Шаг 5: Проверка успешной сборки
+      - name: Verify Build Output
+        run: |
+          echo "Build succeeded on ${{ matrix.os }} with .NET ${{ matrix.dotnet-version }}"
