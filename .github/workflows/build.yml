@@ -16,7 +16,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, windows-latest] # Ïëàòôîðìû äëÿ ñáîðêè
-        dotnet-version: '4.8'  # Убедитесь, что .NET Framework 4.8 доступен  Âåðñèè .NET SDK (åñëè ïðèìåíèìî)
+        dotnet-version: [4.8]
 
     steps:
       # Øàã 1: Ïðîâåðêà èñõîäíîãî êîäà
