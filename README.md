@@ -22,6 +22,6 @@ Beware, for within these sacred files, you may encounter cryptic lines of code t
 
 # Project Title
 
-![Build Status](https://img.shields.io/github/workflow/status/OlegAsenchik/gstu-adventure/.github/workflows/build.yml)
+![Build Status](https://img.shields.io/github/workflow/status/OlegAsenchik/gstu-adventure/.github/workflows/build)
 
 Your project description goes here.
