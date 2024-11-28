@@ -20,7 +20,7 @@ Beware, for within these sacred files, you may encounter cryptic lines of code t
 > "May your paths be guided by the light of GSTU, and may your queries never return null."
 > - Oleg Asenchik
 
-![Asen Status](https://avatars.mds.yandex.net/i?id=edc1f752fb373626a5c00cb863c814a3_sr-6850570-images-thumbs&n=13)
+<img src="https://avatars.mds.yandex.net/i?id=edc1f752fb373626a5c00cb863c814a3_sr-6850570-images-thumbs&n=13" width=25%>
 # Project Title
 
 ![example workflow](https://github.com/OlegAsenchik/gstu-adventure/actions/workflows/build.yml/badge.svg)
