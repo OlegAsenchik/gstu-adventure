@@ -1,4 +1,5 @@
-![Background Image]([https://example.com/your-image.jpg](https://belmathematics.by/images/sampledata/such.jpg))
+![Background Image](https://www.w3.org/Style/Examples/011/firstcss.png)
+
 # The Enchanted Repository of GSTU: Chronicles of Databases and C# Magic
 Behold, ye travelers of the Digital Realm! Welcome to the sacred and arcane repository of GSTU, where the fates of databases intertwine with the mystical powers of C#.
 
