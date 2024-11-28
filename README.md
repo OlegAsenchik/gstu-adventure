@@ -19,3 +19,9 @@ Beware, for within these sacred files, you may encounter cryptic lines of code t
 ## Final Blessing
 > "May your paths be guided by the light of GSTU, and may your queries never return null."
 > - Oleg Asenchik
+> - 
+# Project Title
+
+![Build Status](https://img.shields.io/github/workflow/status/<username>/<repository>/build)
+
+Your project description goes here.
