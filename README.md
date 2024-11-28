@@ -1,4 +1,4 @@
-![Background Image]([https://www.w3.org/Style/Examples/011/firstcss.png](https://avatars.mds.yandex.net/i?id=74fd80e1b6d2ecd979ce3bf766039ab2_l-5332183-images-thumbs&n=13))
+![Background Image](https://i.pinimg.com/736x/93/c0/7d/93c07d69210704f167f00fd4e7f77bbb.jpg)
 
 # The Enchanted Repository of GSTU: Chronicles of Databases and C# Magic
 Behold, ye travelers of the Digital Realm! Welcome to the sacred and arcane repository of GSTU, where the fates of databases intertwine with the mystical powers of C#.
