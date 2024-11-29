@@ -10,14 +10,15 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest  # Используем Windows для .NET Framework
+    runs-on: windows-latest
 
     steps:
       - name: Check out code
         uses: actions/checkout@v2
-
+      # Код написан на .NET Framework 4.8, который поддерживает только  Windows, поэтому процесс
+      # будет компилировать проект только под одну платформу
       # В данном случае, для .NET Framework 4.8 не требуется настройка .NET SDK
-      # Так как Windows Runner уже поддерживает его
+      # так как Windows Runner уже поддерживает его
 
       - name: Restore dependencies
         run: dotnet restore
